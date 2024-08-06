@@ -1,0 +1,9 @@
+/* Your button CSS file */
+.btn-yours {
+  color: white;
+  padding: 15px 25;
+  border-radius: 4px;
+  font-weight: bold;
+  background: #6AD58B;
+  transition: background 0.3s ease;
+}
